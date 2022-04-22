@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CathPlantSci
 - 🌾 I’m interested in wheat genetics and genomics
-- 🧬 I’m currently doing bioinformatics in command line and R to investigate wheat transcription factors
+- 🧬 I’m currently using R to analyse wheat experiments
 - 📫 How to reach me: on twitter @CathPlantSci
 
 <!---
